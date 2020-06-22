@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-boilerplate",
+  "version": "1.0.0",
+  "description": "Este es un repositorio con una recopilación e información para la creación de un proyecto de Tailwindcss básico y funcional.",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "author": "Albert Escamilla",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/ui": "^0.3.0",
+    "laravel-mix": "^5.0.4",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2",
+    "tailwindcss": "^1.4.6",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

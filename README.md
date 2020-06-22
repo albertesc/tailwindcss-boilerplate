@@ -6,9 +6,9 @@ This is a base project based on tailwindcss and laravel-mix ready to create a ba
 
 These instructions will allow you to obtain a copy of the running project on your local machine for development and testing purposes.
 
-### Pre-requisitos
+### Requirements
 
-Necesitaras instalar node.js para el correcto funcionamiento de este repositorio. Pedes encontrar toda la info en (https://nodejs.org/es/download/).
+You will need to install node.js for the proper functioning of this repository. You can find all the info at (https://nodejs.org/es/download/).
 
 ### Installation
 

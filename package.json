@@ -13,11 +13,11 @@
   "author": "Albert Escamilla",
   "license": "MIT",
   "devDependencies": {
-    "@tailwindcss/ui": "^0.3.0",
-    "laravel-mix": "^5.0.4",
-    "sass": "^1.26.8",
+    "@tailwindcss/ui": "^0.3.1",
+    "laravel-mix": "^5.0.9",
+    "sass": "^1.29.0",
     "sass-loader": "^8.0.2",
-    "tailwindcss": "^1.4.6",
-    "vue-template-compiler": "^2.6.11"
+    "tailwindcss": "^1.9.6",
+    "vue-template-compiler": "^2.6.12"
   }
 }
